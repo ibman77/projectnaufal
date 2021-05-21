@@ -1,11 +1,11 @@
 print("Menghitung Luas Persegi Panjang")
 
-size_input = input("Panjang: ")
-size_input2 = input("Lebar: ")
+size_input = input("Input panjang: ")
+size_input2 = input("Input lebar: ")
 
-Panjang = int(size_input)
-Lebar = int(size_input2)
+panjang = int(size_input)
+lebar = int(size_input2)
 
-Luas = Panjang * Lebar
+luas = panjang * lebar
 
-print(f"Luas Persegi Panjang = {Luas} cm")
+print(f"Luas Persegi Panjang = {luas}")
