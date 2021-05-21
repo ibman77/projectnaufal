@@ -1,12 +1,5 @@
-name = input("Enter your name: ")
+p = 7
+l = 2
 
-print(f"Hallo {name}")
-
-condition = input("How are you today?: ")
-
-print(f"{condition}")
-
-age = input("How old are you?: ")
-
-print(f"I'm {age} y o")
-
+result = p * l
+print(result)
